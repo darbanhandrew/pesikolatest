@@ -1,0 +1,1 @@
+FROM liararepo/django-platform:release-2021-04-13T13-18-python3.8
